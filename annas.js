@@ -1,6 +1,5 @@
 
-let num1=input("Enter a number:")
-let num2=input("Enter another number")
+
 function addEmUp(num1,num2) {
     return num1+num2
 }
